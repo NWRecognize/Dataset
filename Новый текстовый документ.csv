@@ -1,0 +1,20 @@
+man\doctors\cardiolog\cardiolog*.wav,16000,кардиолог
+man\doctors\cardiolog\Kcardiolog*.wav,16000,к кардиологу
+man\doctors\dentist\dentist*.wav,16000,дантист
+man\doctors\dentist\Kdentist*.wav,16000,к дантисту
+man\doctors\ophthalmolog\*.wav,16000,офтальмолог
+man\doctors\surgeon\surgeon*.wav,16000,хирург
+man\doctors\surgeon\Ksurgeon*.wav,16000,к хирургу
+man\doctors\therapist\therapist*.wav,16000,терапевт
+man\doctors\therapist\Ktherapist*.wav,16000,к терапевту
+man\week\mondey\*.wav,16000,понедельник
+man\week\tuesday\*.wav,16000,вторник
+man\week\wendnesday\*.wav,16000,среда
+man\week\thursday\*.wav,16000,четверг
+man\week\friday\*.wav,16000,пятница
+man\week\saturday\*.wav,16000,суббота
+man\week\sunday\*.wav,16000,воскресенье
+man\yes_no\no\*.wav,16000,нет
+man\yes_no\yes\*.wav,16000,да
+woman\ophthalmolog*.wav,16000,офтальмолог
+woman\sunday*.wav,16000,воскресенье
